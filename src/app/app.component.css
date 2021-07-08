@@ -1,0 +1,12 @@
+.first{
+    color: 	#ffff00;
+}
+
+li{
+    margin-right:6em;
+   background-color: black;
+   width: 120%;
+}
+li:hover{
+    background-color: 	#ac0000;
+}
